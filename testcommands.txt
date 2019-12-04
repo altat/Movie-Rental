@@ -1,0 +1,19 @@
+I
+H 101
+H 12201
+H 8888
+H 1234
+R 1234 D F Team Fortress 2, 2007
+B 1234 D F Team Fortress 2, 2007
+B 1234 D X Team Fortress 2, 2007
+B 9999 D F Team Fortress 2, 2007
+B 8888 D F Hunter x Hunter, 2011
+B 6666 D D Kojima Hideo, Death Stranding,
+B 7777 D C 12 2018 Toon Link
+B 7777 D C 12 2018 King Dedede
+R 6666 D D Kojima Hideo, Death Stranding,
+R 6666 D D Kojima Hideo, Death Stranding,
+I
+H 1234
+H 6666
+H 7777

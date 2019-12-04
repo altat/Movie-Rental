@@ -1,0 +1,10 @@
+F, 10, Gabe Newell, Team Fortress 2, 2007
+F, 10, Gabe Newell, Team Fortress 2, 2020
+F, 10, Gabe Newell, Team Fortress 3, 2020
+D, 10, Kojima Hideo, Death Stranding, 2019
+D, 10, Kojima Hideo, Death Stranding 2, 2019
+D, 10, Kojima Hideo, Metal Gear Solid 2, 2001
+C, 10, Sakurai Masahiro, Super Smash Bros Ultimate, King Dedede 12 2018
+C, 10, Sakurai Masahiro, Super Smash Bros Ultimate, King Dedede 12 2019
+C, 0, Sakurai Masahiro, Super Smash Bros Ultimate, Toon Link 12 2018
+V, 10, Invalid Director, Invalid Title, 2019
